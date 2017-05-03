@@ -1,0 +1,80 @@
+S.No-->1
+Name of the celebrity: Isla Fisher
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BODY3MDQ4MTQ4Nl5BMl5BanBnXkFtZTgwNDU2NzU1MDE@._V1._CR186,0,2034,3000_SX40_SY59.jpg
+Profession:str Actress
+Best work:  "Now You See Me"
+Overall sentiment on Twitter: Possitive
+
+
+S.No-->2
+Name of the celebrity: Nathan Lane
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTEwMTc1MjQ3NzFeQTJeQWpwZ15BbWU3MDEzNjEwODE@._V1._CR0,0,266,392_SX40_SY59.jpg
+Profession:str Actor
+Best work:  "The Lion King"
+Overall sentiment on Twitter: Possitive
+
+
+S.No-->3
+Name of the celebrity: Blythe Danner
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwMDkzNTAyODdeQTJeQWpwZ15BbWU3MDY5ODEzMjQ@._V1._CR111,0,1388,2048_SX40_SY59.jpg
+Profession:str Actress
+Best work:  "Meet the Parents"
+Overall sentiment on Twitter: Possitive
+
+
+S.No-->4
+Name of the celebrity: Warwick Davis
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNzk3MjA3Ml5BMl5BanBnXkFtZTcwOTAxNjA3Mg@@._V1._CR16,0,271,400_SX40_SY59.jpg
+Profession:str Actor
+Best work:  "Harry Potter and the Deathly Hallows: Part 2"
+Overall sentiment on Twitter: Possitive
+
+
+S.No-->5
+Name of the celebrity: Maura Tierney
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BNzY2ODY2NTY5OF5BMl5BanBnXkFtZTgwNDg5MDQ0NTE@._V1._CR22,0,1388,2048_SX40_SY59.jpg
+Profession:str Actress
+Best work:  "Liar Liar"
+Overall sentiment on Twitter: Possitive
+
+
+S.No-->6
+Name of the celebrity: Morgan Fairchild
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1ODQyOTU1MV5BMl5BanBnXkFtZTcwMDY5MjE3MQ@@._V1._CR7,0,271,400_SX40_SY59.jpg
+Profession:str Actress
+Best work:  "The Seduction"
+Overall sentiment on Twitter: Possitive
+
+
+S.No-->7
+Name of the celebrity: Elisa Donovan
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwNTQ0MDY4M15BMl5BanBnXkFtZTgwMjEwODgwOTE@._V1._CR1174,0,1748,2579_SX40_SY59.jpg
+Profession:str Actress
+Best work:  "Clueless"
+Overall sentiment on Twitter: Possitive
+
+
+S.No-->8
+Name of the celebrity: Bridget Regan
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjUxNTEyMF5BMl5BanBnXkFtZTgwMjk2NDE2OTE@._V1._CR176,0,1323,1952_SX40_SY59.jpg
+Profession:str Actress
+Best work:  "John Wick"
+Overall sentiment on Twitter: Possitive
+
+
+S.No-->9
+Name of the celebrity: Maitland Ward
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3MzAzNTI5Nl5BMl5BanBnXkFtZTcwMzg3MjgyMQ@@._V1._CR28,0,395,582_SX40_SY59.jpg
+Profession:str Actress
+Best work:  "White Chicks"
+Overall sentiment on Twitter: Possitive
+
+
+S.No-->10
+Name of the celebrity: Keith Gordon
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NzI5MDE4OF5BMl5BanBnXkFtZTcwNjAzMDA4NQ@@._V1._CR315,0,651,960_SX40_SY59.jpg
+Profession:str Director
+Best work:  "A Midnight Clear"
+Overall sentiment on Twitter: Possitive
+
+
